@@ -1,6 +1,6 @@
-CREATE DATABASE test;
+CREATE DATABASE ProjectManagement;
 
-use test;
+USE ProjectManagement;
 
 CREATE TABLE users (
 	id INT(11) UNSIGNED AUTO_INCREMENT PRIMARY KEY, 

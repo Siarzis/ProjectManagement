@@ -5,4 +5,4 @@
 	<li><a href="read.php"><strong>Read</strong></a> - find a user</li>
 </ul>
 
-<?php include "templates/footer.php"; ?>
+<?php include "templates/footer"; ?>
